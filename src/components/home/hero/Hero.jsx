@@ -1,6 +1,6 @@
-import React from "react"
-import Heading from "../../common/Heading"
-import "./hero.css"
+import React from "react";
+import Heading from "../../common/Heading";
+import "./hero.css";
 
 const Hero = () => {
   return (
